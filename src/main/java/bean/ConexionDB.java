@@ -22,8 +22,8 @@ public class ConexionDB {
     public static Connection conectarBaseDatos() {
         Connection conn = null; //Instancia de Tipo conexion
         String user = "root"; // Nombre de Usuario para el acceso a la base de datos
-        String pass = "n0m3l0"; // Contraseña del Usuario para el acceso a la base de datos
-        String baseDatos ="base"; // Nombre de la base de datos
+        String pass = "11608041211"; // Contraseña del Usuario para el acceso a la base de datos
+        String baseDatos ="cellgadb"; // Nombre de la base de datos
         String autoReconnect = "true"; // Permite autoreconectarse
         String publicKey = "true"; //Permite recuperación de llave Publica
         String useSSL = "false"; //Usa Certificado de seguridad  
@@ -50,5 +50,6 @@ public class ConexionDB {
         }
         return conn;
     }
+    
 }
 
