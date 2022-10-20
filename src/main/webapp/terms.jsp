@@ -33,6 +33,7 @@
     <link href="css/fontawesome-all.min.css" rel="stylesheet">
     <link href="css/swiper.css" rel="stylesheet">
 	<link href="css/styles.css" rel="stylesheet">
+        <link rel="shortCut icon" type="image/png" href="images/favicon.png">
 	
 
 </head>

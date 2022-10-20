@@ -1,2 +1,7 @@
-D:\Proyectos\Cellga_PA\src\main\java\com\mycompany\cellga_pa\resources\JavaEE8Resource.java
-D:\Proyectos\Cellga_PA\src\main\java\com\mycompany\cellga_pa\JAXRSConfiguration.java
+D:\Proyectos\Callga_PA-0.1-PRE_ALPHA\src\main\java\bean\ConexionDB.java
+D:\Proyectos\Callga_PA-0.1-PRE_ALPHA\src\main\java\bean\ServerletTabIn.java
+D:\Proyectos\Callga_PA-0.1-PRE_ALPHA\src\main\java\com\mycompany\callga_pa\pre_alpha\resources\JavaEE8Resource.java
+D:\Proyectos\Callga_PA-0.1-PRE_ALPHA\src\main\java\com\mycompany\callga_pa\pre_alpha\JAXRSConfiguration.java
+D:\Proyectos\Callga_PA-0.1-PRE_ALPHA\src\main\java\bean\ServerletInsActInd.java
+D:\Proyectos\Callga_PA-0.1-PRE_ALPHA\src\main\java\bean\ServerletLogin.java
+D:\Proyectos\Callga_PA-0.1-PRE_ALPHA\src\main\java\bean\ServerletRegistro.java

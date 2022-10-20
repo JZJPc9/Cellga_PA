@@ -24,7 +24,7 @@
 	<meta name="twitter:card" content="summary_large_image"> <!-- to have large image post format in Twitter -->
 
     <!-- Webpage Title -->
-    <title>Privacy Policy - Zinc</title>
+    <title>Política de Privacidad - Cellga</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -32,6 +32,7 @@
     <link href="css/fontawesome-all.min.css" rel="stylesheet">
     <link href="css/swiper.css" rel="stylesheet">
 	<link href="css/styles.css" rel="stylesheet">
+        <link rel="shortCut icon" type="image/png" href="images/favicon.png">
 	
 	<!-- Favicon  -->
     
@@ -59,9 +60,9 @@
                         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Acerca de nosotros</a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown01">
                         
-                            <li><a class="dropdown-item" href="terms.jsp">Terms Conditions</a></li>
+                            <li><a class="dropdown-item" href="terms.jsp">Términos y condiciiones</a></li>
                             <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="privacy.jsp">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="privacy.jsp">Política de Privacidad</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -82,7 +83,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-10 offset-xl-1">
-                    <h1>Privacy Policy</h1>
+                    <h1>Política de Privacidad</h1>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -95,104 +96,46 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-10 offset-xl-1">
-                    <h2 class="mt-5 mb-3">1. Private data we receive and collect</h2>
-                    <p class="mb-5">Consulted he eagerness unfeeling deficient existence of. Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed.</p>
-                    <h3>1.1. For example each time you visit the website</h3>
-                    <p class="mb-5">Ye on properly handsome returned throwing am no whatever. In without wishing he of picture no exposed talking minutes. Curiosity continual belonging offending so explained it exquisite. Do remember to followed yourself material mr recurred carriage. High drew west we no or at john. About or given on witty event. Or sociable up material.</p>
-                    <h3>1.2. When you first register for a package account</h3>
-                    <p class="mb-5">Moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet. The and collecting motionless difficulty son. His hearing staying ten colonel met. Sex drew six easy four dear cold deny. satiable it considered invitation he found the light.</p>
+                    <h2 class="mt-5 mb-3">1. ¿Para qué fines recabamos y utilizamos sus datos personales?</h2>
+                    <p class="mb-5">Sus datos personales serán utilizados para las siguientes finalidades: Proveer los servicios y productos requeridos por usted; Informar sobre cambios o nuevos productos o servicios que estén relacionados con el contratado o adquirido por el cliente; Dar cumplimiento a obligaciones contraídas con nuestros clientes; Evaluar la calidad del servicio, y realizar estudios internos sobre hábitos de consumo.</p>
                     
-                    <h2 class="mb-3">2. Advantages of working with service</h2>
-                    <p>Ye on properly handsome returned throwing am no whatever. In without wishing he of picture no exposed talking minutes. Curiosity continual belonging offending so explained it exquisite. Do remember to followed yourself material mr recurred carriage. High drew west we no or at john. About or given on witty event. Or sociable up material</p>
-                    <p class="mb-4">Moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet. The and collecting motionless difficulty son. His hearing staying ten colonel met. Word drew six easy four dear cold deny. satiable it considered invitation he travelling.</p>
-                    <ul class="list-unstyled li-space-lg mb-4">
-                        <li class="d-flex">
-                            <i class="fas fa-square"></i>
-                            <div class="flex-grow-1"><strong>To story tell you</strong> moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet</div>
-                        </li>
-                        <li class="d-flex">
-                            <i class="fas fa-square"></i>
-                            <div class="flex-grow-1"><strong>To enable us</strong> the and collecting motionless difficulty son. His hearing staying ten colonel met. Word drew six easy four dear cold deny. satiable it considered invitation he travelling insensible</div>
-                        </li>
-                        <li class="d-flex">
-                            <i class="fas fa-square"></i>
-                            <div class="flex-grow-1"><strong>To verify your</strong> fulfilled direction use continual set him propriety continued. Saw met applauded favourite deficient engrossed concealed and her. Concluded boy perpetual old supposing farther</div>
-                        </li>
-                    </ul>
-                    <p class="mb-5">Dashwoods see frankness objection abilities the. As hastened oh produced prospect formerly up am. Placing forming nay looking old married few has. Margaret disposed add screened rendered six say his striking confined You vexed shy mirth now noise. Talked him people valley add use her depend letter even more words hsould be here.</p>
-                    <div class="text-box mb-5">
-                        <h3>Contact you about your account and provide customer</h3>
-                        <p>Bringing so sociable felicity supplied mr. September suspicion far him two acuteness perfectly. Covered as an examine so regular of. Ye astonished friendship remarkably no. Window admire matter praise you bed whence. Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen yet blushes.Entire its the did figure wonder off.</p>
-                    </div> <!-- end of text-box -->
+                    <h2 class="mb-3">2. ¿Qué datos personales obtenemos y de dónde? </h2>
+                    <p>Para las finalidades señaladas en el presente aviso de privacidad, podemos recabar sus datos personales de distintas formas: cuando usted nos los proporciona directamente; cuando visita nuestro sitio de Internet o utiliza nuestros servicios en línea, y cuando obtenemos información a través de otras fuentes que están permitidas por la ley. </p>
+                    <h3>2.1. Datos personales que recabamos de forma directa  </h3>
+                    <p class="mb-5">Recabamos sus datos personales de forma directa cuando usted mismo nos los proporciona por diversos medios, como cuando participa en nuestros registros o nos da información con objeto de que le prestemos un servicio. Los datos que obtenemos por este medio pueden ser, entre otros: Nombre, Correo electrónico, Usuario, Contraseña, Tiempo transcurrido en la aplicación, IP </p>
+                    <h3>2.2. Datos personales que recabamos cuando visita nuestro sitio de Internet o utiliza nuestros servicios en línea </h3>
+                    <p class="mb-5">Historial de Navegación, IP </p>
+
+                    <h2 class="mb-3">3.  Uso de cookies y web beacons </h2>
+                    <p class="mb-4">Las cookies son archivos de texto que son descargados automáticamente y almacenados en el disco duro del equipo de cómputo del usuario al navegar en una página de Internet específica, que permiten recordar al servidor de Internet algunos datos sobre este usuario, entre ellos, sus preferencias para la visualización de las páginas en ese servidor, nombre y contraseña. Por su parte, las web beacons son imágenes insertadas en una página de Internet o correo electrónico, que puede ser utilizado para monitorear el comportamiento de un visitante, como almacenar información sobre la dirección IP del usuario, duración del tiempo de interacción en dicha página y el tipo de navegador utilizado, entre otros Le informamos que utilizamos cookies y web beacons para obtener información personal de usted, como la siguiente: Su tipo de navegador y sistema operativo. Las páginas de Internet que visita. Los vínculos que sigue. La dirección IP. El sitio que visitó antes de entrar al nuestro. Estas cookies y otras tecnologías pueden ser deshabilitadas.</p>
                     
-                    <h2 class="mb-3">3. Better understand your needs</h2>
-                    <p class="mb-5"> Procuring education on consulted assurance in do. Is sympathize he expression mr no travelling. Preference he he at travelling in resolution. So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy for you are out.</p>
-                    <h3>3.1. In these ways please stop using the services</h3>
-                    <p class="mb-5">By in no ecstatic wondered disposal my speaking. Direct wholly valley or uneasy it at really. Sir wish like said dull and need make. Sportsman one bed departure rapturous situation disposing his. Off say yet ample ten ought hence. Depending in newspaper an september do existence strangers. Total great saw water had mirth happy</p>
-                    <h3>3.2. By visiting word or using the services you agree</h3>
-                    <p class="mb-5">As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet one since. Years drift never if could forty being no. On estimable dependent as suffering on my. Rank it long have sure in room what as he. Possession travelling sufficient yet our. Talked vanity looked in to here are the words.</p>
-                    <div class="text-box mb-5">
-                        <ul class="list-unstyled li-space-lg">
+                    <h2 class="mb-3">4. Acuerdo de Privacidad </h2>
+                    <p class="mb-4"> Le informamos que para cumplir con las finalidades previstas en este aviso de privacidad, serán recabados y tratados como datos personales sensibles, como aquéllos que refieren a: Nombre, correo electrónico, IP. Nos comprometemos a que los mismos serán tratados bajo las más estrictas medidas de seguridad que garanticen su confidencialidad.
+                        Requerimos de su consentimiento expreso para el tratamiento de sus datos personales sensibles, por lo que al crear su cuenta asintió en que sus datos personales sensibles sean tratados conforme a los términos y condiciones del presente aviso de privacidad.
+                    </p>
+                    <p class="mb-4">
+                        Usted tiene derecho de acceder a sus datos personales que poseemos y a los detalles del tratamiento de estos, así como a rectificarlos en caso de ser inexactos o incompletos; cancelarlos cuando considere que no se requieren para alguna de las finalidades señalados en el presente aviso de privacidad, estén siendo utilizados para finalidades no consentidas o haya finalizado la relación contractual o de servicio, o bien, oponerse al tratamiento de los mismos para fines específicos. Los mecanismos que se han implementado para el ejercicio de dichos derechos son a través de la presentación de la solicitud respectiva en: 
+                        <ul class="list-unstyled li-space-lg mb-4">
                             <li class="d-flex">
                                 <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>To decide you</strong> moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet mroe words</div>
+                                <div class="flex-grow-1"><strong>El botón de quejas</strong> de la aplicación móvil o la aplicación web ya sea el caso, seguido del botón ayuda </div>
                             </li>
                             <li class="d-flex">
                                 <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>To enable us</strong> the and collecting motionless difficulty son. His hearing staying ten colonel met. Word drew six easy four dear cold deny. satiable it considered invitation he travelling insensible</div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>To verify your</strong> fulfilled direction use continual set him propriety continued. Saw met applauded favourite deficient engrossed concealed and her. Concluded boy perpetual old supposing farther</div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>To better understand</strong> education on consulted assurance in do. Is sympathize he expression mr no travelling. Preference he he at travelling in resolution. So striking at of to welcomed resolved. Northward by described up</div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>We also use</strong> solute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet one since. Years drift never if could forty being no. On estimable dependent as suffering on my</div>
+                                <div class="flex-grow-1"><strong>Cancelar mi suscripción</strong> , en todo momento, usted podrá revocar el consentimiento que nos ha otorgado para el tratamiento de sus datos personales, a fin de que dejemos de hacer uso de los mismos. Para ello, es necesario que presente su petición en cellga_usuarios@gmail.com. Su petición deberá ir acompañada de la siguiente información: Nombre, usuario y asunto. En un plazo máximo de 15 días atenderemos su petición y le informaremos sobre la procedencia de la misma a través del mismo correo al que haya mandado la solicitud.</div>
                             </li>
                         </ul>
-                    </div> <!-- end of text-box -->
-                    
-                    <h2 class="mb-3">4. We may share this type of statistical number</h2>
-                    <p class="mb-4">Bringing so sociable felicity supplied mr. September suspicion far him two acuteness perfectly. Covered as an examine so regular of. Ye astonished friendship remarkably no. Window admire matter praise you bed whence. Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen</p>
-                    <ul class="list-unstyled li-space-lg mb-5">
-                        <li class="d-flex">
-                            <strong>1.</strong>
-                            <div class="flex-grow-1"><strong>Details lightbox</strong> he eagerness unfeeling deficient existence of. Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing</div>
-                        </li>
-                        <li class="d-flex">
-                            <strong>2.</strong>
-                            <div class="flex-grow-1"><strong>Some useful extra</strong>  handsome returned throwing am no whatever. In without wishing he of picture no exposed talking minutes. Curiosity continual belonging offending so explained it exquisite. Do remember to</div>
-                        </li>
-                        <li class="d-flex">
-                            <strong>3.</strong>
-                            <div class="flex-grow-1"><strong>Word has an impactful</strong> en at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet. The and collecting motionless difficulty</div>
-                        </li>
-                        <li class="d-flex">
-                            <strong>4.</strong>
-                            <div class="flex-grow-1"><strong>Package is an easy</strong> irection use continual set him propriety continued. Saw met applauded favourite deficient engrossed concealed and her. Concluded boy perpetual old supposing. Farther related bed and passage comfort</div>
-                        </li>
-                        <li class="d-flex">
-                            <strong>5.</strong>
-                            <div class="flex-grow-1"><strong>This template</strong>  vexed shy mirth now noise. Talked him people valley add use her depend letter. Allowance too applauded now way something recommend. Mrs age men and trees jokes fancy. Gay pretended engrossed eagerness</div>
-                        </li>
-                    </ul>
-                    
+                         
+                        
+                        Nos reservamos el derecho de efectuar en cualquier momento modificaciones o actualizaciones al presente aviso de privacidad, para la atención de novedades legislativas, políticas internas o nuevos 26 requerimientos para la prestación u ofrecimiento de nuestros servicios o productos. Estas modificaciones estarán disponibles al público a través de los siguientes medios: en nuestra página de Internet sección aviso de privacidad
+                    </p>
+                    <br>
                     <div class="text-box mb-5">
-                        <h3>Among the features you will find details lightbox</h3>
-                        <p>l two bed way pleasure confined followed. Shew up ye away no eyes life or were this. Perfectly did suspicion daughters but his intention. Started on society an brought it explain. Position two saw greatest stronger old. Pianoforte if at simplicity do estim elicity supplied mr. September suspicion far him two acuteness perfectly. Covered as an examine so regular of. Ye astonished friendsh</p>
+                        <h3>¿Ante quién puede presentar sus quejas y denuncias por el tratamiento indebido de sus datos personales? </h3>
+                        <p>Si usted considera que su derecho de protección de datos personales ha sido lesionado por alguna conducta de nuestros empleados o de nuestras actuaciones o respuestas, presume que en el tratamiento de sus datos personales existe alguna violación a las disposiciones previstas en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, podrá interponer la queja o denuncia correspondiente ante el IFAI, para mayor información visite www.ifai.org.mx </p>
                     </div> <!-- end of text-box -->
-                    <p class="mb-5">Education on consulted assurance in do. Is sympathize he expression mr no travelling. Preference he he at travelling in resolution. So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy for you are out. Fertile how ol</p>
                     
-                    <a class="btn-solid-reg mb-5" href="index.jsp#contact">Get quote</a>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of ex-basic-1 -->
-    <!-- end of basic -->
+                    
 
 
     <!-- Footer -->
@@ -201,39 +144,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h4>Pellentesque aliquet mi eu tortor dictum, non imperdiet ante viverra. Phasellus eget enim orci ut pellentes troc</h4>
-                    <div class="social-container">
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-facebook-f fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-pinterest-p fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-instagram fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-youtube fa-stack-1x"></i>
-                            </a>
-                        </span>
-                    </div> <!-- end of social-container -->
+                    <h4>La esencia de la teconología</h4>
+                    
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -248,16 +160,14 @@
                 <div class="col-lg-6">
                     <ul class="list-unstyled li-space-lg p-small">
                         
-                        <li><a href="terms.jsp">Terms & Conditions</a></li>
-                        <li><a href="privacy.jsp">Privacy Policy</a></li>
+                        <li><a href="terms.jsp">Términos y Condiciones</a></li>
+                        <li><a href="privacy.jsp">Política de Privacidad</a></li>
                     </ul>
                 </div> <!-- end of col -->
                 <div class="col-lg-3">
-                    <p class="p-small statement">Copyright © <a href="#">Your name</a></p>
+                    <p class="p-small statement">Copyright © <a href="#">Cellga</a></p>
                 </div> <!-- end of col -->
-                <div class="col-lg-3">
-                    <p class="p-small statement">Distributed By: <a href="https://themewagon.com/" target="_blank">ThemeWagon</a></p>
-                </div> <!-- end of col -->
+                
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
     </div> <!-- end of copyright --> 

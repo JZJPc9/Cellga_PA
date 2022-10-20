@@ -1,18 +1,6 @@
 
 package bean;
 
-/**
- *
- * @author juanc
- */
-/*
-*
-* Elaborado por M. en E. Sergio Ernesto Moreno Soto
-* IPN. CECYT 9 JUAN DE DIOS BÁTIZ
-*
-*/
-
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -50,6 +38,11 @@ public class ConexionDB {
         }
         return conn;
     }
-    
+    /*Esta es una pequeña prueba de coneccion
+    public static void main(String[] args){
+        Connection conn = ConexionDB.conectarBaseDatos();
+        System.out.print(conn);
+    }
+    */
 }
 

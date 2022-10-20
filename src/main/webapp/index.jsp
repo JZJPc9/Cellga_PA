@@ -27,6 +27,7 @@
     <title>Cellga</title>
     
     <!-- Styles -->
+    <link rel="shortCut icon" type="image/png" href="images/favicon.png">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/fontawesome-all.min.css" rel="stylesheet">
@@ -45,7 +46,8 @@
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
 
             <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <a class="navbar-brand logo-text" href="index.jsp">Cellga</a>
+           
+            <a class="navbar-brand logo-text" href="index.jsp"> <img src="images/logo2.PNG" width="200" height="65"></a>
 
             <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -92,6 +94,7 @@
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
                         <!-- imagen -->
+                        
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -161,7 +164,7 @@
                             <br>
                             <div class="alinear">
                                 <span class="nav-item">
-                                    <a class="btn-solid-sm" href="tableroindividual.jsp">Tablero</a>
+                                    <a class="btn-solid-sm" href="registroTI.jsp">Tablero</a>
                                 </span>
                             </div> 
                             

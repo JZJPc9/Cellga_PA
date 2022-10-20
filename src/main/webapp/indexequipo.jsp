@@ -3,10 +3,26 @@
     Created on : 8/09/2022, 03:53:43 PM
     Author     : 
 --%>
+
+<%
+    //VALIDAR SI HAY UNA SESION ABIERTA
+    HttpSession sesion=request.getSession();
+    
+    String usuario = (String)sesion.getAttribute("user"); 
+    String password = (String)sesion.getAttribute("password");
+    
+    if(usuario != null && password != null){
+        //SI HAY UNA SESION ABIERTA NO HACE NADA
+      }
+    else{
+        response.sendRedirect("registrarvista.jsp");        
+    }
+%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="shortCut icon" type="image/png" href="images/favicon.png">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -69,16 +85,10 @@
     </nav> <!-- end of navbar -->
     <header id="header" class="header2">
         <div class="container">
-            <div class="row">
-                    
-                <hr>
-                        
-                <h1 class="h1-large">Tus tableros </h1>
-                <div>
-                        
-            </div> <!-- end of row -->
-            
-
+            <div class="row">                    
+                <hr>                        
+                <h1 class="h1-large">Tus tableros </h1>                 
+            </div><!-- end of row -->
         </div> <!-- end of container -->
         <br>
         <a class="btn-solid-reg" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Crear Tablero</a>
@@ -90,23 +100,23 @@
         <div class="contenedor">
             <a href="tableroequipo.html">
                 <div class="cuadros">
-                    Matemáticas
+                    Fiesta de panchito
                 </div>
 
             </a>
             
 
             <div class="cuadros">
-                Química
-            </div>
-            <div class="cuadros">
-                Física
-            </div>
-            <div class="cuadros">
-                Inglés
+                Clase de yoga
             </div>
             <div class="cuadros">
                 Familia
+            </div>
+            <div class="cuadros">
+                Club de Cocina
+            </div>
+            <div class="cuadros">
+                Mate
             </div>
             <div class="cuadros">
                 Amigos
@@ -115,56 +125,51 @@
         </div>
         
     </div>
-    <!-- Details Modal -->
+    
+    
+    <!-- Details Modal -->    
+    <!--MODAL PARA UNIR TABLERO -->
     <div id="unirtablero" class="modal fade" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="row">
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-
-                    
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>                    
                         <h3>Información del tablero</h3>
                         <hr>
                         <h4>ID:</h4>
-                        <input  class="form-control" id="nombretablero" aria-describedby="emailHelp">
-                        <br>
-     
+                        <input  class="form-control" id="cambiar" aria-describedby="emailHelp">
+                        <br>     
                         <div class="separar">
-                            <a id="unirse" class="btn-solid-reg" href="#">Unirte</a>
-                            
+                            <a id="unirse" class="btn-solid-reg" href="#">Unirte</a>                            
                         </div>
-                </div><!-- end of row -->
-                
-                
-            </div> <!-- end of modal-content -->
-            
+                </div><!-- end of row -->              
+            </div> <!-- end of modal-content -->            
         </div> <!-- end of modal-dialog -->
     </div> <!-- end of modal -->
+    
+    
+    <!--MODAL PARA CREAR TABLERO-->
     <div id="staticBackdrop" class="modal fade" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="row">
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-
-                    
+                    <form action="registroTE.jsp">
                         <h3>Información del tablero</h3>
                         <hr>
                         <h4>Nombre:</h4>
-                        <input  class="form-control" id="nombretablero" aria-describedby="emailHelp">
+                        <input  class="form-control" id="nombretablero" name="nombretablero" aria-describedby="emailHelp">
                         <br>
                         <h4>Descripción:</h4>
-                        <input  class="form-control" id="nombretablero" aria-describedby="emailHelp">
+                        <input  class="form-control" id="descripcion" name="descripcion" aria-describedby="emailHelp">
                         <br>
-     
+                        <input type="submit" value="Crear">
+                    </form>                             
                         <div class="separar">
-                            <a id="modalCtaBtn" class="btn-solid-reg" href="#">Crear</a>
-                            
+                            <a id="modalCtaBtn" class="btn-solid-reg" href="indexequipo.jsp">CREAR</a>
                         </div>
                 </div><!-- end of row -->
-                
-                
             </div> <!-- end of modal-content -->
-            
         </div> <!-- end of modal-dialog -->
     </div> <!-- end of modal -->
 
